@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/siva.jpg",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-hdpi/siva.jpg"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/first.jpg",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-hdpi/first.jpg"
+    }
+]

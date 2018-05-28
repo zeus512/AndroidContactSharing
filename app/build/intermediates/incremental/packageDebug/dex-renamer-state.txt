@@ -1,0 +1,7 @@
+#Mon Oct 17 23:05:10 IST 2016
+base.0=/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae35da5ff89529e66ef84c9b778d87dc4da87e2d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71cf7ea495088f4424dbb03febead19975d0ff01/classes.dex
+base.1=/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71cf7ea495088f4424dbb03febead19975d0ff01
+file.0=/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae35da5ff89529e66ef84c9b778d87dc4da87e2d/classes.dex

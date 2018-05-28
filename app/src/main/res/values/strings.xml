@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Identity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_phone_contacts">PhoneContactsActivity</string>
+    <string name="title_activity_cloud_contacts">CloudContactsActivity</string>
+    <string name="title_activity_option_s">OptionSActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_social_integration">SocialIntegration</string>
+    <string name="action_settings">Settings</string>
+    <string name="hnt_et_name">Display Name</string>
+    <string name="hnt_et_mobile_phone">Mobile Phone</string>
+    <string name="hnt_et_home_phone">Home Phone</string>
+    <string name="hnt_et_home_email">Home Email</string>
+    <string name="hnt_et_work_email">Work Email</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="str_btn_contacts">Contacts List</string>
+
+    <string-array name="facebook_array">
+        <item>User Profile</item>
+        <item>Post Message</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Upload Image</item>
+        <item>Get Albums</item>
+        <item>Update Story</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="twitter_array">
+        <item>User Profile</item>
+        <item>Send Tweet</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Upload Image</item>
+        <item>Get Albums</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="linkedin_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Career</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="myspace_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="yahoo_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="yammer_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="googleplus_array">
+        <item>User Profile</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Get Albums</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="google_array">
+        <item>User Profile</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="foursquare_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="flickr_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="instagram_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Get Feeds</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="salesforce_array">
+        <item>User Profile</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="runkeeper_array">
+        <item>User Profile</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="drawable_array">
+        <item>share</item>
+        <item>profile</item>
+        <item>contacts</item>
+        <item>feeds</item>
+        <item>image</item>
+        <item>albums</item>
+        <item>notepad</item>
+        <item>close</item>
+    </string-array>
+
+    <string name="title_activity_save_contacts">SaveContactsActivity</string>
+    <string name="title_activity_share">ShareActivity</string>
+
+</resources>

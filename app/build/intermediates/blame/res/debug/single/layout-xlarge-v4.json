@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/albumitem.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/albumitem.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/home_grid.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/home_grid.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contact.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/contact.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/providers_list.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/providers_list.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/provider_options.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/provider_options.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/feed.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/feed.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/contact_list.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/contact_list.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/feed_list.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/feed_list.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/profile.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/profile.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/dialog.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/dialog.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/photoitem.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/photoitem.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/layout-xlarge/main.xml"
+    }
+]

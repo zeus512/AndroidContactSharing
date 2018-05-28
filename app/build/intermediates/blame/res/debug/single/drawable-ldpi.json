@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/notepad.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/notepad.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/image.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/image.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/contact.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/contact.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/cloudcontacts.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/cloudcontacts.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/close.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/close.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-ldpi/albums.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-ldpi/albums.png"
+    }
+]

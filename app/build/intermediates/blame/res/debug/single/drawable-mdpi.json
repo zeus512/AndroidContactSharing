@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/contact.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/contact.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/cloudcontacts.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/cloudcontacts.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/share.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/share.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/albums.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/albums.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/profile.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/notepad.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/notepad.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/contacts.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/contacts.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/close.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/close.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/feeds.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/feeds.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/drawable-mdpi/image.png",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/drawable-mdpi/image.png"
+    }
+]

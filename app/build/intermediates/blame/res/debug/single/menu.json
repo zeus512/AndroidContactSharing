@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_message.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_message.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_tab.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_tab.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/social_integration.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/social_integration.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_save_contacts.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_save_contacts.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_share.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_share.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_cloud_contacts.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_cloud_contacts.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_option_s.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_option_s.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_registration.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_registration.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_phone_contacts.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_phone_contacts.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Identity1/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/root/StudioProjects/Identity1/app/src/main/res/menu/activity_main.xml"
+    }
+]

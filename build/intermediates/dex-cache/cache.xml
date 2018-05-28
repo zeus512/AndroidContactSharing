@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Identity1/app/libs/aws-android-sdk-0.2.1-debug.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="35b09adfe882b18969f691590c1f195273d08ce0">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-0.2.1-debug_ab292b8528f495a7a94c7c1ec9ff30876d6eecd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Identity1/app/libs/socialauth-android-3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32bae3266a7c49bc7019ef3a868d080cb141f8d3">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/2/socialauth-android-3.2_3c6a65658ded56fefa7994515dc0b11b3311d6ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Identity1/app/libs/socialauth-4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/2/socialauth-4.4_70a1f7de799ca4ccbd285a18296d109e1ccbe25f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Identity1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d13ff166bf17d399549d855a20c5e9a98772e135">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_71cf7ea495088f4424dbb03febead19975d0ff01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_990102ea804ead2dc9e3a13c359505bcfe8d25c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/Identity1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cb23fdda68b231aabc876bdc13d11516527ff0b">
+        <dex dex="/root/StudioProjects/Identity1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ae35da5ff89529e66ef84c9b778d87dc4da87e2d/classes.dex" />
+    </item>
+
+</items>
